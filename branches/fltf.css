@@ -1,0 +1,23 @@
+        /* Social Widget */
+        #ForYouFree-bar {
+            border: 0;
+            margin-bottom: 10px;
+            margin: 0 auto;
+                width:300;
+        }
+        .fb-likebutton {
+            background: #fff;
+            padding: 10px 13px 0 10px;
+            border-right: 1px solid #D8E6EB;
+           border-left: 1px solid #D8E6EB;
+           border-bottom: 1px solid #D8E6EB;
+            margin:0px;
+                height:45px;
+        }
+        .twitter {
+            background: #EEF9FD;
+            padding: 10px;
+            border: 1px solid #C7DBE2;
+            border-top: 0;}
+            width:100px;
+            height:50px;
